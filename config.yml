@@ -1,0 +1,26 @@
+title: "Portfolio of a Senior DevOps Engineer"
+description: "Showcasing my professional journey, projects, certifications, and skills."
+author: "Ravikiran Savai"
+baseurl: "/portfolio"
+url: "https://yourusername.github.io"
+theme: "minimal"
+markdown: kramdown
+permalink: pretty
+
+# Social links (optional)
+social:
+  linkedin: "https://www.linkedin.com/in/yourprofile"
+  github: "https://github.com/yourusername"
+
+# Navigation menu
+nav:
+  - text: "Home"
+    link: "/"
+  - text: "About"
+    link: "/about"
+  - text: "Projects"
+    link: "/projects"
+  - text: "Certifications"
+    link: "/certifications"
+  - text: "Contact"
+    link: "/contact"
